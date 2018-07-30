@@ -1,0 +1,46 @@
+
+*{
+padding:0;
+margin:0;
+}
+body{
+ background:url();	
+ font-family:Verdana,Geneva,sans-serif;
+ font-size:12px;
+ .logo{
+	text-indent:-999999px;
+	background:url("logo.png")no repeat; 
+	float:left; 
+	width:200px; 
+	height:200px; 
+	}
+	
+	#footer{
+			clear:both;
+			height:200px;
+			width:100%;
+			background:#fff;
+			margin-bottom:20px;
+		}
+		.footer_links{
+			float:left;
+			margin:90px 0 20px 0px;
+			width:370px;
+		}
+		.footer_links li{
+			list-style:none;
+			float:left;
+			margin-left:20px;
+		}
+		.footer_links li a{
+			text-decoration:none;
+			color:#333;
+		}
+		.footer_links li a:hover;{
+		color:#000;
+		}
+		.contact_txt{
+			float:left;
+			width:250;
+			padding:20px;
+		}

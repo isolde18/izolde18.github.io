@@ -1,0 +1,171 @@
+
+*{
+	padding:0;
+	margin:0;
+}
+
+body{
+	background:#f1f1f1;
+	font-family:Verdana,Geneva,sans-serif;
+	font-size:12px;
+}
+#wrapper{
+	margin:0 auto;
+	width:960px;
+}
+#header{
+	float:left;
+	width:100%;
+	height:250px;
+}
+#logo h1{
+	font-size:35px;
+	float:left;
+	margin-top:130px;
+	color:#dac91a;
+	text-shadow:1px 1px 3px#333
+}
+.navigation{
+	float:right;
+	margin:150px-50px 0 0;
+	width:600px;
+	
+}
+
+.navigation.li{
+	float:left;
+	list-style:none;
+}
+
+.navigation li a{
+	        float:left;
+	color:#333;
+	padding:6px20px;
+	text-decoration:none;
+	border-right:1px solid #333;
+	font-size:16px;
+	font-family:'Lobster',cursive;
+}
+.navigation li a:hover{
+	
+	background-color:#333;
+	color:#fff;
+}
+#video{
+		float:left;
+		margin:20px;
+		border:5px solid#000;
+	}
+	
+#sidebar{
+	float:right;
+	width:300px;
+	height:100%;
+	background:#fff;
+}
+
+#sidebar h3{
+	padding-left:20px;
+	color:#333;
+}
+.sidebar_list{
+	margin:20px;
+}
+
+.sidebar_list li{
+	list-style:none;
+	margin:10px;
+	padding-bottom:10px;
+	border-bottom:1px dotted#ddd;
+}
+
+.sidebar_list li a{
+	text-decoration:none;
+	color:#333;
+	font-size:13px;
+}
+#search_form{
+	
+	margin:10px 0 50px 20px;
+}
+
+#search_form input{
+	
+	padding:5x;
+}
+.thumb{
+	float:left;
+	margin:22px;
+	border:1px solid #fff;
+	box-shadow:0px 4px 6px #999;
+}
+.main_thumb{
+	float:right;
+	margin:40px;
+	border:1px solid#fff;
+	box-shadow:0 px 4px 6px#999
+}
+#main_content{
+		float:left;
+		width:630px;
+		height:100%;
+		background:#fff
+		border-radius:6px;
+		margin-bottom:40px;
+		font-family:'Lobster',cursive;
+		
+	}
+	
+	
+	#video{
+		float:left;
+		margin:20px;
+		border:5px solid#000;
+	}
+	hr{
+		color:#ddd;
+		width:570px;
+		margin-left:20px;
+		float:left;
+	}
+	.main_thumb2{
+	float:right;
+	margin:40px;
+	border:1px solid#fff;
+	box-shadow:0 px 4px 6px#999
+	}
+	.vid_excerpt{
+		float:right;
+		margin:0 50px 40px 0;
+	}
+		#footer{
+			clear:both;
+			height:200px;
+			width:100%;
+			background:#fff;
+			margin-bottom:20px;
+		}
+		.footer_links{
+			float:left;
+			margin:90px 0 20px 0px;
+			width:370px;
+		}
+		.footer_links li{
+			list-style:none;
+			float:left;
+			margin-left:20px;
+		}
+		.footer_links li a{
+			text-decoration:none;
+			color:#333;
+		}
+		.footer_links li a:hover;{
+		color:#000;
+		}
+		.about_txt{
+			float:left;
+			width:250;
+			padding:20px;
+		}
+		
+			
